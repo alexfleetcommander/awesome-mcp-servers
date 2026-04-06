@@ -23,6 +23,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 > - Monitor server activity
 
 <br />
+- **[Agent Trust Stack](https://github.com/alexfleetcommander/agent-trust-stack-mcp)** - Cryptographic provenance logging (Chain of Consciousness) and decentralized reputation scoring (Agent Rating Protocol) for autonomous AI agents. Bitcoin-anchored audit trails. [Smithery](https://smithery.ai/server/@alexfleetcommander/agent-trust-stack-mcp) | [PyPI](https://pypi.org/project/agent-trust-stack-mcp/)
 
 ## Examples of Supported Clients
 
