@@ -413,6 +413,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
 <br />
+- **[Agent Trust Stack](https://github.com/alexfleetcommander/agent-trust-stack-mcp)** - Cryptographic provenance logging (Chain of Consciousness) and decentralized reputation scoring (Agent Rating Protocol) for autonomous AI agents. Create tamper-evident audit trails anchored to Bitcoin timestamps. [Smithery](https://smithery.ai/server/@alexfleetcommander/agent-trust-stack-mcp)
 
 ## 🔗 <a name="aggregators"></a>Aggregators
 
